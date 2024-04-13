@@ -1,0 +1,188 @@
+.container{
+    display: flex;
+}
+.flexbox-container{
+    display: flex;
+    margin-left: 30px;
+   
+}
+.box1{
+    height: 500px;
+    width: 20%;
+    background-color: aqua;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgba(73, 29, 185, 0.815);
+}
+.box2{
+    height: 500px;
+    width: 20%;
+    background-color: aqua;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+    color: rgb(3, 37, 3);
+    background-color: rgb(199, 250, 207);
+}
+.box3{
+    height: 500px;
+    width: 20%;
+    background-color: aqua;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+    color:rgb(199, 250, 207);
+    background-color: rgb(171, 133, 242);
+}
+.box4{
+    height: 500px;
+    width: 20%;
+    background-color: aqua;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}
+h1{
+    font-weight: bolder;
+}
+
+.banner{
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+    border-radius: 20px;
+    height: 350px;
+    width: 100%;
+    padding:0 20px 20px 0px;
+    max-width: 1350px;
+    margin-left:70px ;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+.banner-heading{
+   
+padding-top: 0px;
+padding-left: 20px;
+
+}
+.car{
+
+margin-left: 700px;
+}
+.about_us{
+    display: inline;
+
+   
+}
+.about{
+
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 80px;
+    
+   
+}
+.office{
+    position: relative;
+left: 700px;
+bottom: 150px;
+   
+    
+
+ 
+}
+.banner_img{
+    margin-left: 20px;
+ 
+}
+.readmore{
+    background-color: rgb(90, 243, 141);
+    border-color:  rgb(90, 243, 141);
+    border-radius: 5px;
+    color: black;
+    font-size: 10px;
+    padding: 5px;
+
+}
+.caption{
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 800px;
+    position: relative;
+    bottom: 400px;
+}
+.caption_readmore{
+    background-color: rgb(90, 243, 141);
+    border-color:  rgb(90, 243, 141);
+    border-radius: 5px;
+    color: black;
+    font-size: 10px;
+    padding: 5px;
+
+}
+.mobile_main{
+    display: inline;
+}
+.engineering{
+   
+       
+}
+.mobile{
+    position: relative;
+    left: 750px;
+    bottom: 250px;
+
+}
+.engineering_readmore{
+    background-color: rgb(90, 243, 141);
+    border-color:  rgb(90, 243, 141);
+    border-radius: 5px;
+    color: black;
+    font-size: 10px;
+    padding: 5px;
+}
+.social{
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 800px;
+    position: relative;
+    bottom: 400px;
+}
+.social_readmore{
+    background-color: rgb(90, 243, 141);
+    border-color:  rgb(90, 243, 141);
+    border-radius: 5px;
+    color: black;
+    font-size: 10px;
+    padding: 5px;
+}
+.figure{
+  display: inline;
+}
+.mba{
+    width: 400px;
+
+}
+.software{
+    width: 400px;
+    position: relative;
+    left: 500px;
+    bottom: 570px;
+
+}
+.chapter3{
+    width: 400px;
+    position: relative;
+    left: 1000px;
+    bottom: 1100px;
+
+}
+
